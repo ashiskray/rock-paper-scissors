@@ -1,2 +1,2 @@
-# rock-paper-scissors
-A simple rock-paper-scissors game using (python)
+# rock-paper-scissor
+A simple rock-paper-scissor game using (python)
